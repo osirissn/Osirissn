@@ -1,8 +1,6 @@
 Hi there 
 - 🧑🏻‍💻 Iniciando na jornada da tecnologia da informação.
-- 🌱 Atualmente estudando diferentes linguagens de programação.
-- 👯 Procuro colaborar com meus conhecimentos.
-- 📫 Contate-me no email osirisdecastroneto@gmail.com.
+
 
 
 <div align="center">
