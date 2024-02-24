@@ -1,4 +1,8 @@
-- 🧑🏻‍💻 Iniciando na jornada da tecnologia da informação.
+- 🧑🏻‍💻 Desempenho a função de Estagiário Analista de Dados na M7 Soluções Financeiras.
+        Sou Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas.
+        
+        Tenho experiência em:
+        Python - Pandas - SQL - Processos de ETL - Automações - RPA - MongoDB (NoSQL) - APIs Rests - Coleta de dados
 
 
 
